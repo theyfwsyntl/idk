@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="refresh" content="0; url=https://pornhub.com">
+<title>Redirecting</title>
+</head>
+<body>
+If you are not redirected automatically, click below.
+<a href="https://example.com">Continue</a>
+</body>
+</html>
